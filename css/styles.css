@@ -218,6 +218,7 @@ margin-bottom:10px;
     display:flex;
     justify-content: space-between;
 }
+
 .footer-address {
     display:inline-block;
     color:var(--additional-color);
@@ -340,4 +341,8 @@ margin-right:30px;
     border-left: 1px solid var(--portfolio-border-color);
     border-right: 1px solid var(--portfolio-border-color);
     padding: 20px 24px;
+}
+
+.team-list-item{
+    background-color: var(--bg-color);
 }
